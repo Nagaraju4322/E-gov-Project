@@ -1,0 +1,34 @@
+A Secure and Privacy-Preserving E-Government Framework Using Blockchain and Artificial Immunity
+
+
+IEEE Transaction on Blockchain,Volume:11,Issue Date:25.January.2023
+
+
+
+urlid	
+URL		 
+Source_IP	 
+Source_Port	 
+Destination_IP	 
+Destination_Port	 
+Timestamp	
+Attack_Type
+Gov_Classify_Type
+
+
+
+
+
+
+Government_to_Citizen_G2C
+Government_to_Business_G2B
+Government_to_Government_G2G
+Government_to_Employees_G2E
+
+
+Malware
+Dos
+Worms
+cyber attack
+
+
